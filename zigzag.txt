@@ -1,6 +1,6 @@
+
 #Zigzag program
 #for python
-
 
 import time, sys
 indent = 0
